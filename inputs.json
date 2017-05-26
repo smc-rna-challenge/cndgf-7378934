@@ -1,0 +1,20 @@
+{
+    "REFERENCE_GENOME": {
+        "path": "data/Homo_sapiens.GRCh37.75.dna.primary_assembly.fa", 
+        "class": "File"
+    }, 
+    "TUMOR_FASTQ_2": {
+        "path": "data/sim31_mergeSort_2.fq.gz", 
+        "class": "File"
+    }, 
+    "TUMOR_FASTQ_1": {
+        "path": "data/sim31_mergeSort_1.fq.gz", 
+        "class": "File"
+    }, 
+    "starindex": "star_index.tar.gz", 
+    "csindex": "chimerascan_bowtie1_index.tar.gz", 
+    "REFERENCE_GTF": {
+        "path": "data/Homo_sapiens.GRCh37.75.gtf", 
+        "class": "File"
+    }
+}

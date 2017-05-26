@@ -1,0 +1,8 @@
+{
+    "REFERENCE_GENOME": "syn5923671", 
+    "TUMOR_FASTQ_2": "TODO", 
+    "TUMOR_FASTQ_1": "TODO", 
+    "starindex": "syn9885620", 
+    "csindex": "syn9885635", 
+    "REFERENCE_GTF": "syn5923670"
+}
